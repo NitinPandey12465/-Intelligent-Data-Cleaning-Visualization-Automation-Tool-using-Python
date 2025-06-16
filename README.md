@@ -22,18 +22,4 @@ This project is a Python-based algorithm that automates the process of data clea
   - Step-by-step prompts for filling nulls and generating plots
   - Final option to export the cleaned dataset as `.csv` or `.xlsx`
 
-## Requirements
 
-- Python 3.x
-- pandas
-- numpy
-- seaborn
-- matplotlib
-- plotly
-- scipy
-- openpyxl (for saving Excel files)
-
-Install requirements using:
-
-```bash
-pip install pandas numpy matplotlib seaborn plotly scipy openpyxl
