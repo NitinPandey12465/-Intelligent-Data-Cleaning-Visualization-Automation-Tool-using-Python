@@ -1,7 +1,7 @@
 # -Intelligent-Data-Cleaning-Visualization-Automation-Tool-using-Python
 # Auto Dataset Cleaner & Visualizer
 
-This project is a Python-based algorithm that automates the process of data cleaning, preprocessing, and visualization for structured datasets (CSV or Excel). It is designed to make exploratory data analysis (EDA) intuitive, customizable, and efficient—especially for non-technical users or fast prototyping.
+This project is a Python-based algorithm that automates the process of data cleaning, preprocessing, and visualization for structured datasets (CSV or Excel). It is designed to make exploratory data analysis (EDA) intuitive, customizable, and efficient—especially for non-technical users or fast prototyping.....
 
 ## Features
 
