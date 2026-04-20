@@ -17,7 +17,7 @@ This project is a Python-based algorithm that automates the process of data clea
   - Supports multiple graph types: histogram, bar, pie, line, boxplot
   - Allows user to select column(s) and graph type(s) interactively
   - Includes relational visualizations between categorical and numerical columns (bar, box, violin)
-  - Plots can be displayed and optionally saved as `.png` files
+  - Plots can be displayed and optionally saved as `.png` files.....
 - **User Interaction**:
   - Step-by-step prompts for filling nulls and generating plots
   - Final option to export the cleaned dataset as `.csv` or `.xlsx`.....
