@@ -12,7 +12,7 @@ This project is a Python-based algorithm that automates the process of data clea
   - Null value handling with user-defined options (mean, sum, 0, custom string)
   - Data type parsing (automatic datetime conversion)
   - Rating and percentage column transformation
-  - Outlier detection using Z-score and IQR methods
+  - Outlier detection using Z-score and IQR methods.....
 - **Visualization**:
   - Supports multiple graph types: histogram, bar, pie, line, boxplot
   - Allows user to select column(s) and graph type(s) interactively
